@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kardelen</h1>
-- 🔭 I’m currently working on **React.js**
+<li align="center">Hi - 🔭 I’m currently working on **React.js** Kardelen</li>
+<li align="center">Hi - 🌱 I’m currently learning **Front-end technologies**</li>
+<li align="center">Hi - 📫 How to reach me **kardelennceltikk@gmail.com**</li>
 
-- 🌱 I’m currently learning **Front-end technologies**
 
-- 📫 How to reach me **kardelennceltikk@gmail.com**
+
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
